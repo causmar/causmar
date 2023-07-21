@@ -1,6 +1,6 @@
 Welcome to my profile, I’m Alejo!
 - I'm interested in software development for geospatial processes automation and optimization.
-- I'm currently learning QGIS API for Python and Google Earth Engine.
+- I'm currently learning web development.
 - I'm looking to collaborate on any kind of geospatial projects, geospatial technology is just my passion!
 - You can reach me via my email: causmar97@gmail.com
 
